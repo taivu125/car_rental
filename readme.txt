@@ -8,7 +8,7 @@ User Name: test@gmail.com/123456
 Password : 123456
 
 For Admin Panel
-Open Your browser put inside browser “http://localhost/Online_Car_Rental/admin”
+Open Your browser put inside browser “http://localhost/carrental/admin”
 
 Login Details for admin :
 User Name: admin
